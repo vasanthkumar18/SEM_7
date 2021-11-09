@@ -1,0 +1,1 @@
+After comparing the results obtained, it can be concluded that using one or three features give more accurate results than using the first and second features. This could be due to the fact that the covariance associated with the third feature is substantially higher than those connected with the second feature.
