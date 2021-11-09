@@ -1,5 +1,5 @@
 # SEM_7
-All assignments/ stuff of Sem 7
+All assignments/ stuff of Sem 7, NITC
 
 [1. Artificial Intelligence](https://github.com/vasanthkumar18/SEM_7/tree/main/AI) </br>
 [2. Machine Learning](https://github.com/vasanthkumar18/SEM_7/tree/main/ML) </br>
