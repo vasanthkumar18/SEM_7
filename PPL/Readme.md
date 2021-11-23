@@ -20,3 +20,8 @@ Assignments/ Projects : PPL
 16. https://www.researchgate.net/publication/2843680_A_Formal_Semantics_for_the_C_Programming_Language
 17. https://www.javatpoint.com/data-types-in-c
 18. https://chortle.ccsu.edu/java5/Notes/chap15/ch15_6.html
+
+## PDFs from Class
+**Topics**: Untyped Lambda Calculus, Simply Typed Lambda Calculus, Extensions, Subtyping
+
+[Open using College Mail](https://drive.google.com/drive/u/1/folders/1KNsPs3eGkT4zQwX6gB5rFSDTAI0eZVfd)
